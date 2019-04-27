@@ -1,0 +1,6 @@
+<style>
+BODY{background-color:lightgrey;}
+TABLE{border-width: 1px;border-style: solid;border-color: black;border-collapse: collapse;}
+TH{border: 1px solid black; background: #dddddd; padding: 5px; }
+TD{border: 1px solid black; padding: 5px; }
+</style>
